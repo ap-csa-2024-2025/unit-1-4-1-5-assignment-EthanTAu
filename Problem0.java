@@ -10,5 +10,5 @@ public class Problem0
   }
 }
 
-//You are abel to store an int in a double since the double has enough spce to hold the int
+//You are able to store an int in a double since the double has enough spce to hold the int
 //You cannot store a double in an int because int doesn't have enough spaces for a double

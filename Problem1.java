@@ -1,9 +1,9 @@
 
-public class Problem0
+public class problem1
 {
   public static void main(String[] args)
   {
-    int initial = 5;
+    int x = 5;
     System.out.println("Initial value: " + x);
     x++;
     System.out.println("number is now " + x);
@@ -12,6 +12,12 @@ public class Problem0
     x++; 
     System.out.println("number is now " + x);
     x++;
+    System.out.println("number is now " + x);
+    x--;
+    System.out.println("number is now " + x);
+    x--;
+    System.out.println("number is now " + x);
+    x--;
     System.out.println("number is now " + x);
     x--;
     System.out.println("number is now " + x);
